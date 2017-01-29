@@ -1,0 +1,5 @@
+kernel//usr/src/hw3-cse506p14/hw3/syscall_module/syscall_tbl_mod.ko
+kernel//usr/src/hw3-cse506p14/hw3/syscall_module/test.ko
+kernel//usr/src/hw3-cse506p14/hw3/syscall_module/test_syscalls.ko
+kernel//usr/src/hw3-cse506p14/hw3/syscall_module/test_vectors.ko
+kernel//usr/src/hw3-cse506p14/hw3/syscall_module/hw3_ioctl.ko
